@@ -1,0 +1,26 @@
+{
+  "name": "airline-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "events.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawzi-shiyyab19/Airline-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fawzi-shiyyab19/Airline-System/issues"
+  },
+  "homepage": "https://github.com/fawzi-shiyyab19/Airline-System#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "devDependencies": {}
+}
