@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "events.js",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node"
@@ -20,7 +19,8 @@
   },
   "homepage": "https://github.com/fawzi-shiyyab19/Airline-System#readme",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0"
-  },
-  "devDependencies": {}
+    "@faker-js/faker": "^7.6.0",
+    "socket.io": "^4.5.3",
+    "socket.io-client": "^4.5.3"
+  }
 }
